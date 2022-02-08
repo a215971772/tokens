@@ -1,0 +1,11 @@
+{
+ "name": "PANDAKING Token",
+ "website": "https://bscscan.com/address/0x696b34b340407d2565c3058b53f984b7780cc6a9",
+ "description": "Pandaking was born to celebrate the Spring Festival and Winter Olympics. While paying tribute to the dog king, it encourages our Chinese children to unite as one.",
+ "explorer": "https://bscscan.com/address/0x696b34b340407d2565c3058b53f984b7780cc6a9",
+ "type": "BEP20",
+ "symbol": "PANDAKING",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x696b34b340407d2565c3058b53F984B7780CC6A9"
+}
